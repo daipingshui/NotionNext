@@ -5,7 +5,7 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   NOTICE_BAR: [
-    { title: '你好，这里是DaiPingshui' Notion', url: 'https://notion.zdz.me' },
+    { title: '你好，这里是DaiPingshui的Notion笔记', url: 'https://notion.zdz.me' },
     { title: '我的emby服务器', url: 'http://emby.zdz.me' },
     { title: '我的Alist', url: 'https://alist.zdz.me' }
   ],
@@ -14,9 +14,9 @@ const CONFIG = {
   HERO_TITLE_1: '软件|技巧',
   HERO_TITLE_2: '与解决方案',
   HERO_TITLE_3: 'NOTION.ZDZ.ME',
-  HERO_TITLE_4: '新版上线',
-  HERO_TITLE_5: 'NotionNext4.0 轻松定制主题',
-  HERO_TITLE_LINK: 'https://tangly1024.com',
+  HERO_TITLE_4: '网址导航',
+  HERO_TITLE_5: '带瓶水的网址导航',
+  HERO_TITLE_LINK: 'https://dh.zdz.me',
 
   // 英雄区显示三个置顶分类
   HERO_CATEGORY_1: { title: '每日分享', url: '/tag/每日分享' },
